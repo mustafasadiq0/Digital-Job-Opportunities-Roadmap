@@ -1,0 +1,19 @@
+- [x] Select top 20 jobs from research.
+- [x] Categorize selected jobs (beginner, intermediate, advanced; AI, cybersecurity, etc.).
+- [ ] For each job, extract/generate:
+    - [x] Brief overview.
+    - [x] Certifications (free/low-cost).
+    - [x] Technical and soft skills.
+    - [x] Project/practical application suggestions.
+    - [x] Reliable free resources (courses, articles, videos, academies).
+- [x] Propose a creative website name.
+- [x] Create attractive introductory homepage content.
+- [x] Create "Tip of the Week" page content.
+- [ ] Structure the website content in a clear, accessible format.
+- [x] Design the website interface (simple, fast, mobile-friendly, icons).
+- [x] Develop the website (HTML/CSS/JS).
+- [x] Test website functionality and responsiveness.
+- [x] Deploy the website to a temporary subdomain.
+- [ ] Provide a control panel for management.
+- [x] Deliver the website URL and control panel access to the user.
+
